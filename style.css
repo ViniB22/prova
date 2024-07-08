@@ -1,0 +1,20 @@
+body{
+    background-color: indigo;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    align-items: center;
+    text-align: center;
+    margin-top: 175px;
+}
+.container{
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.76);
+    padding: 10px;
+    border-radius: 5px;
+    width: 250px;
+    word-wrap: break-word;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
